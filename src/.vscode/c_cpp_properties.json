@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jagadeswar/nrsc_shuttle_ws/install/waypoints_routing/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/vectornav/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_control/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/vectornav_msgs/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/traffic_information_msgs/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/target_waypoint_index/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_msgs/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_rviz_plugins/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_utils/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_msgs/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/ndt_omp_ros2/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_validation/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_examples/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_python/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_routing/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_matching/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_traffic_rules/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_projection/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_maps/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_io/include/**",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_core/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jagadeswar/assign_ws/src/ack_bringup/include/**",
+        "/home/jagadeswar/assign_ws/src/ack_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,29 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/jagadeswar/mechaprime_ws/install/mechaprime_scripts/lib/python3.10/site-packages",
+        "/home/jagadeswar/mechaprime_ws/install/mechaprime_navigation/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_control/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/traffic_information_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_utils/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_python/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jagadeswar/mechaprime_ws/install/mechaprime_scripts/lib/python3.10/site-packages",
+        "/home/jagadeswar/mechaprime_ws/install/mechaprime_navigation/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_control/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/traffic_information_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/sdv_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_utils/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/polygon_msgs/local/lib/python3.10/dist-packages",
+        "/home/jagadeswar/nrsc_shuttle_ws/install/lanelet2_python/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
