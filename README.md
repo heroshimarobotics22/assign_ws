@@ -126,6 +126,10 @@ ros2 run ack_perception vision_node
 # Terminal 3 — Control node
 source install/setup.bash
 ros2 run ack_controller control_node
+
+# Terminal 4 — Camera node
+source ~/assign_ws/install/setup.bash
+ros2 run rqt_image_view rqt_image_view /camera/debug_image
 ```
 
 ---
